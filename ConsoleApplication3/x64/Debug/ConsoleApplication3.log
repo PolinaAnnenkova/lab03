@@ -1,0 +1,21 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\UserPC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(125,40): warning C4244: =: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\UserPC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(166,41): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=size_t
+          ]
+C:\Users\UserPC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(248,42): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\UserPC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(249,141): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\UserPC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(249,48): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\UserPC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(250,152): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\UserPC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(252,72): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\UserPC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(252,32): warning C4244: инициализация: преобразование "size_t" в "const double", возможна потеря данных
+  Source1.cpp
+C:\Users\UserPC\source\repos\ConsoleApplication3\ConsoleApplication3\Source1.cpp(16,87): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=unsigned int
+          ]
+  Создание кода...
+  ConsoleApplication3.vcxproj -> C:\Users\UserPC\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe

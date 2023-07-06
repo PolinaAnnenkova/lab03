@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'>
+<line x1='8' y1='5' x2= '280' y2='5' stroke='black' stroke-dasharray='10'/><line x1='8' y1='5' x2= '8' y2='120' stroke='black' stroke-dasharray='10'/><line x1='8' y1='117' x2= '280' y2='117' stroke='black' stroke-dasharray='10'/><line x1='278' y1='5' x2= '280' y2='120' stroke='black' stroke-dasharray='10'/><text x='20' y='30'>2</text><rect x='60' y='15' width='80' height='30' stroke='#6699FF' fill='#00FFFF'/><text x='20' y='60'>5</text><rect x='60' y='45' width='200' height='30' stroke='#6699FF' fill='#D2691E'/><text x='20' y='90'>3</text><rect x='60' y='75' width='120' height='30' stroke='#6699FF' fill='#DC143C'/></svg>
